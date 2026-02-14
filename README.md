@@ -1,16 +1,19 @@
-## Hi there 👋
+# Kirill — QA Engineer
 
-<!--
-**m5roon/m5roon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Manual QA (3.5y) → Automation
 
-Here are some ideas to get you started:
+## Stack
+- Python, Pytest, Requests
+- API testing (Postman)
+- SQL (PostgreSQL / MySQL)
+- Jira, Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus now
+- API automation
+- Test framework design
+- CI (GitHub Actions)
+
+## Projects
+- qa-autotest-api — API tests on Pytest + CI
+- qa-ui-autotest — UI automation (Playwright/Selenium)
+- qa-manual-portfolio — test plans, checklists, bug reports
